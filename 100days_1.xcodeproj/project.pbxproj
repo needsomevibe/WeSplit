@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		10DC96DC2EA269E6000E6E86 /* 100days_1 */ = {
+		10DC96DC2EA269E6000E6E86 /* WeSplit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = 100days_1;
+			path = WeSplit;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		10DC96D12EA269E6000E6E86 = {
 			isa = PBXGroup;
 			children = (
-				10DC96DC2EA269E6000E6E86 /* 100days_1 */,
+				10DC96DC2EA269E6000E6E86 /* WeSplit */,
 				10DC96DB2EA269E6000E6E86 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				10DC96DC2EA269E6000E6E86 /* 100days_1 */,
+				10DC96DC2EA269E6000E6E86 /* WeSplit */,
 			);
 			name = 100days_1;
 			packageProductDependencies = (

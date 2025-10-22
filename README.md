@@ -2,7 +2,7 @@
 A simple and elegant SwiftUI app for splitting bills and calculating tips.  
 
 ## 📸 Preview  
-<img src="2025-10-22 15.17.55.jpg" alt="WeSplit App Preview" width="400"/>  
+<img src="preview.jpg" alt="WeSplit App Preview" width="400"/>  
 
 ---
 

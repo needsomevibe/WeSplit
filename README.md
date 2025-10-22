@@ -1,4 +1,4 @@
-<img width="328" height="557" alt="image" src="https://github.com/user-attachments/assets/fb5f9dd1-b1a4-47c4-8d25-599527f8de86" /># WeSplit  
+# WeSplit  
 A simple and elegant SwiftUI app for splitting bills and calculating tips.  
 
 ## 📸 Preview  

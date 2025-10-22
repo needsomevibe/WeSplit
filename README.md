@@ -4,8 +4,6 @@ A simple and elegant SwiftUI app for splitting bills and calculating tips.
 ## 📸 Preview  
 <img src="2025-10-22 15.17.55.jpg" alt="WeSplit App Preview" width="400"/>  
 
-*(Add your own screenshot as `preview.png` in the project root to display it here.)*  
-
 ---
 
 ## 📌 Overview  
